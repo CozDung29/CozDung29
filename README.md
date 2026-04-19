@@ -27,8 +27,8 @@ I'm a Backend Developer with hands-on experience in building reliable and mainta
 - Contribute to impactful, high-quality software projects
 
 ## 📫 Contact
-- Email: your-email@gmail.com
-- GitHub: https://github.com/your-username
+- Email: codung2909@gmail.com
+- GitHub: https://github.com/CozDung29 
 
 ---
 ⭐️ *Always learning, always building.*
